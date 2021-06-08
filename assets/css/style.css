@@ -2061,7 +2061,15 @@ section {
   color: #aaaaaa;
   font-size: 14px;
 }
-
+.desc {
+  font-size: 1.2rem !important;
+  line-height: 2.5rem;
+  max-width: 700px;
+}
+.desc2 {
+  font-size: 1rem !important;
+  line-height: 2rem;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
