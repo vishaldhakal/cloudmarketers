@@ -1375,7 +1375,6 @@ section {
   text-transform: uppercase;
   padding: 0;
   margin: 0;
-  font-style: italic;
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
@@ -2589,4 +2588,14 @@ section {
   border: 3px solid rgb(236, 232, 232);
   border-style: dashed;
   border-radius: 10px;
+}
+
+.portfolio-link {
+  color: white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0);
+  margin-bottom: 10px;
+}
+.portfolio-link:hover {
+  color: white;
+  border-bottom: 1px solid white;
 }
